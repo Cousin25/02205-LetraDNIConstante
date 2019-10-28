@@ -21,13 +21,9 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        final char LETRA_DNI='J';
+        final char LETRA_DNI = 'J';
         System.out.print("La letra del DNI es: ");
         System.out.println(LETRA_DNI);
-        
-        
     }
-    
 }
